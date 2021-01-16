@@ -1,0 +1,16 @@
+{
+  "name": "virgilbot",
+  "version": "1.0.0",
+  "description": "the god",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flint",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.10.0",
+    "samp-query": "^0.1.5"
+  }
+}
